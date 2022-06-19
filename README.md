@@ -4,4 +4,4 @@
 Prof. Lucas Vilaboim
 
 	Repositório dos exercícios ministrados no curso.
-	teste o projeto em https://venerfruet.github.io/modulo_ii_html_css3/
+	teste o projeto em https://venerfruet.github.io/modulo_ii_html_css3/index.html
