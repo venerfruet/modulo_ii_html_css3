@@ -4,4 +4,5 @@
 Prof. Lucas Vilaboim
 
 	- Repositório dos exercícios ministrados no curso.
-	- Veja a Web Page em https://venerfruet.github.io/modulo_ii_html_css3/
+	- Veja a Web Page em:
+	https://venerfruet.github.io/modulo_ii_html_css3/
